@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/2022-IBM-Accelerate-SW-Track/to-do-list_week4-alexandrahalfon/static/css/main.538d6899.css",
+    "main.js": "/2022-IBM-Accelerate-SW-Track/to-do-list_week4-alexandrahalfon/static/js/main.089b4bd3.js",
+    "static/media/ProfPic.JPG": "/2022-IBM-Accelerate-SW-Track/to-do-list_week4-alexandrahalfon/static/media/ProfPic.3a31c0feba26bb9cabb3.JPG",
+    "index.html": "/2022-IBM-Accelerate-SW-Track/to-do-list_week4-alexandrahalfon/index.html",
+    "main.538d6899.css.map": "/2022-IBM-Accelerate-SW-Track/to-do-list_week4-alexandrahalfon/static/css/main.538d6899.css.map",
+    "main.089b4bd3.js.map": "/2022-IBM-Accelerate-SW-Track/to-do-list_week4-alexandrahalfon/static/js/main.089b4bd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.538d6899.css",
+    "static/js/main.089b4bd3.js"
+  ]
+}
